@@ -1,57 +1,57 @@
 .d3-axis path {
     fill: none;
     stroke: #999;
-    shape-rendering: crispEdges
+    shape-rendering: crispEdges;
 }
 
 .d3-axis line {
     stroke: #eee;
-    shape-rendering: crispEdges
+    shape-rendering: crispEdges;
 }
 
-.d3-axis .tick,.d3-axis .tick text {
+.d3-axis .tick, .d3-axis .tick text {
     font-size: 12px;
-    fill: #333
+    fill: #333;
 }
 
-.d3-axis-solid line,.d3-axis-solid path {
-    stroke: #ccc
+.d3-axis-solid line, .d3-axis-solid path {
+    stroke: #ccc;
 }
 
 .d3-axis-solid .tick {
-    fill: #999
+    fill: #999;
 }
 
 .d3-axis-solid .tick text {
-    fill: #999
+    fill: #999;
 }
 
-.d3-axis-strong line,.d3-axis-strong path {
-    stroke: #ccc
+.d3-axis-strong line, .d3-axis-strong path {
+    stroke: #ccc;
 }
 
 .d3-axis-strong .tick {
-    fill: #333
+    fill: #333;
 }
 
 .d3-axis-strong .tick text {
-    fill: #333
+    fill: #333;
 }
 
 .d3-axis-transparent path {
-    stroke: none
+    stroke: none;
 }
 
 .d3-axis-transparent line {
-    stroke: #e5e5e5
+    stroke: #e5e5e5;
 }
 
 .d3-axis-transparent .tick {
-    fill: #999
+    fill: #999;
 }
 
 .d3-axis-transparent .tick text {
-    fill: #999
+    fill: #999;
 }
 
 .d3-tip {
@@ -62,7 +62,7 @@
     color: #fff;
     margin-bottom: -3px;
     font-size: 12px;
-    z-index: 1070
+    z-index: 1070;
 }
 
 .d3-tip .d3-tip-arrow {
@@ -70,7 +70,7 @@
     width: 0;
     height: 0;
     border-color: transparent;
-    border-style: solid
+    border-style: solid;
 }
 
 .d3-tip.n .d3-tip-arrow {
@@ -78,7 +78,7 @@
     left: 50%;
     margin-left: -4px;
     border-width: 4px 4px 0;
-    border-top-color: #333
+    border-top-color: #333;
 }
 
 .d3-tip.e .d3-tip-arrow {
@@ -86,7 +86,7 @@
     left: -4px;
     margin-top: -4px;
     border-width: 4px 4px 4px 0;
-    border-right-color: #333
+    border-right-color: #333;
 }
 
 .d3-tip.w .d3-tip-arrow {
@@ -94,7 +94,7 @@
     right: -4px;
     margin-top: -4px;
     border-width: 4px 0 4px 4px;
-    border-left-color: #333
+    border-left-color: #333;
 }
 
 .d3-tip.s .d3-tip-arrow {
@@ -102,7 +102,7 @@
     left: 50%;
     margin-left: -4px;
     border-width: 0 4px 4px;
-    border-bottom-color: #333
+    border-bottom-color: #333;
 }
 
 .venntooltip {
@@ -114,65 +114,65 @@
     color: #fff;
     padding: 7px 12px;
     border-radius: 3px;
-    display: none
+    display: none;
 }
 
 .d3-line {
-    fill: none
+    fill: none;
 }
 
 .d3-line-thin {
-    stroke-width: 1px
+    stroke-width: 1px;
 }
 
 .d3-line-medium {
-    stroke-width: 1.5px
+    stroke-width: 1.5px;
 }
 
 .d3-line-strong {
-    stroke-width: 2px
+    stroke-width: 2px;
 }
 
 .d3-line-circle {
     fill: none;
-    cursor: pointer
+    cursor: pointer;
 }
 
 .d3-line-circle-thin {
-    stroke-width: 1px
+    stroke-width: 1px;
 }
 
 .d3-line-circle-medium {
-    stroke-width: 1.5px
+    stroke-width: 1.5px;
 }
 
 .d3-line-circle-strong {
-    stroke-width: 2px
+    stroke-width: 2px;
 }
 
 .d3-grid .tick line {
     stroke-width: 1px;
     stroke: #e5e5e5;
-    shape-rendering: crispEdges
+    shape-rendering: crispEdges;
 }
 
 .d3-grid .tick text {
     fill: #333;
-    stroke: none
+    stroke: none;
 }
 
 .d3-grid-dashed .tick {
-    stroke-dasharray: 4,2;
+    stroke-dasharray: 4, 2;
     stroke-width: 1px;
     stroke: #e5e5e5;
-    shape-rendering: crispEdges
+    shape-rendering: crispEdges;
 }
 
 .d3-grid-dashed path {
-    stroke-width: 0
+    stroke-width: 0;
 }
 
 .d3-crosshair-overlay {
     fill: none;
-    pointer-events: all
+    pointer-events: all;
 }

@@ -14,21 +14,21 @@
     margin-left: 0 !important;
 }
 
-.customize-control-kirki-background .background-attachment h4,
-.customize-control-kirki-background .background-color h4,
-.customize-control-kirki-background .background-position h4,
-.customize-control-kirki-background .background-repeat h4,
+.customize-control-kirki-background .background-attachment h4
+.customize-control-kirki-background .background-color h4
+.customize-control-kirki-background .background-position h4
+.customize-control-kirki-background .background-repeat h4
 .customize-control-kirki-background .background-size h4 {
     margin-bottom: 5px;
 }
 
-.customize-control-kirki-background .background-attachment .buttonset,
+.customize-control-kirki-background .background-attachment .buttonset
 .customize-control-kirki-background .background-size .buttonset {
     display: flex;
     flex-wrap: wrap;
 }
 
-.customize-control-kirki-background .background-attachment .buttonset .switch-label,
+.customize-control-kirki-background .background-attachment .buttonset .switch-label
 .customize-control-kirki-background .background-size .buttonset .switch-label {
     background: rgba(0, 0, 0, 0.05);
     border: 1px solid rgba(0, 0, 0, 0.1);
@@ -39,7 +39,7 @@
     flex-grow: 1;
 }
 
-.customize-control-kirki-background .background-attachment .buttonset .switch-input:checked + .switch-label,
+.customize-control-kirki-background .background-attachment .buttonset .switch-input:checked + .switch-label
 .customize-control-kirki-background .background-size .buttonset .switch-input:checked + .switch-label {
     background-color: #3498DB;
     color: #fff;
@@ -184,7 +184,7 @@
     font-weight: 700;
 }
 
-.wp-customizer div.ui-datepicker .ui-datepicker-header .ui-datepicker-next,
+.wp-customizer div.ui-datepicker .ui-datepicker-header .ui-datepicker-next
 .wp-customizer div.ui-datepicker .ui-datepicker-header .ui-datepicker-prev {
     padding: 10px;
     display: block;
@@ -194,13 +194,13 @@
     cursor: pointer;
 }
 
-.wp-customizer div.ui-datepicker .ui-datepicker-header .ui-datepicker-next:after, .wp-customizer div.ui-datepicker .ui-datepicker-header .ui-datepicker-next:before,
-.wp-customizer div.ui-datepicker .ui-datepicker-header .ui-datepicker-prev:after,
+.wp-customizer div.ui-datepicker .ui-datepicker-header .ui-datepicker-next:after, .wp-customizer div.ui-datepicker .ui-datepicker-header .ui-datepicker-next:before
+.wp-customizer div.ui-datepicker .ui-datepicker-header .ui-datepicker-prev:after
 .wp-customizer div.ui-datepicker .ui-datepicker-header .ui-datepicker-prev:before {
     font-family: dashicons;
 }
 
-.wp-customizer div.ui-datepicker .ui-datepicker-header .ui-datepicker-next .ui-icon,
+.wp-customizer div.ui-datepicker .ui-datepicker-header .ui-datepicker-next .ui-icon
 .wp-customizer div.ui-datepicker .ui-datepicker-header .ui-datepicker-prev .ui-icon {
     display: none;
 }
@@ -658,7 +658,7 @@
     line-height: 36px;
 }
 
-.customize-control-repeater .remove-button,
+.customize-control-repeater .remove-button
 .customize-control-repeater .upload-button {
     width: 48%;
 }
@@ -790,7 +790,7 @@
     position: relative;
 }
 
-.customize-control-kirki-switch .switch-off,
+.customize-control-kirki-switch .switch-off
 .customize-control-kirki-switch .switch-on {
     opacity: 1;
     padding: 8px;
@@ -956,27 +956,27 @@
     margin: 0.67em 0 0;
 }
 
-.customize-control-kirki-typography .wrapper .color,
-.customize-control-kirki-typography .wrapper .font-backup,
-.customize-control-kirki-typography .wrapper .font-family,
-.customize-control-kirki-typography .wrapper .font-size,
-.customize-control-kirki-typography .wrapper .letter-spacing,
-.customize-control-kirki-typography .wrapper .line-height,
-.customize-control-kirki-typography .wrapper .margin-bottom,
-.customize-control-kirki-typography .wrapper .margin-top,
-.customize-control-kirki-typography .wrapper .text-align,
-.customize-control-kirki-typography .wrapper .text-transform,
+.customize-control-kirki-typography .wrapper .color
+.customize-control-kirki-typography .wrapper .font-backup
+.customize-control-kirki-typography .wrapper .font-family
+.customize-control-kirki-typography .wrapper .font-size
+.customize-control-kirki-typography .wrapper .letter-spacing
+.customize-control-kirki-typography .wrapper .line-height
+.customize-control-kirki-typography .wrapper .margin-bottom
+.customize-control-kirki-typography .wrapper .margin-top
+.customize-control-kirki-typography .wrapper .text-align
+.customize-control-kirki-typography .wrapper .text-transform
 .customize-control-kirki-typography .wrapper .variant {
     width: 100%;
     float: none;
     clear: both;
 }
 
-.customize-control-kirki-typography .wrapper .font-size,
-.customize-control-kirki-typography .wrapper .letter-spacing,
-.customize-control-kirki-typography .wrapper .line-height,
-.customize-control-kirki-typography .wrapper .margin-bottom,
-.customize-control-kirki-typography .wrapper .margin-top,
+.customize-control-kirki-typography .wrapper .font-size
+.customize-control-kirki-typography .wrapper .letter-spacing
+.customize-control-kirki-typography .wrapper .line-height
+.customize-control-kirki-typography .wrapper .margin-bottom
+.customize-control-kirki-typography .wrapper .margin-top
 .customize-control-kirki-typography .wrapper .text-transform {
     width: 48%;
 }
@@ -1004,4 +1004,4 @@
     width: auto;
 }
 
-/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */;

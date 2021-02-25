@@ -2,7 +2,8 @@
 <div class="search_form">
     <form action="/">
         <div class="searchinputcont">
-            <input class="blog-search__input js-posts-search-input" autocomplete="off" name="s" type="text" value="<?php echo get_search_query() ?>" placeholder="<?php _e( 'Search', 'elgrecowoo' ) ?>" />
+            <input class="blog-search__input js-posts-search-input" autocomplete="off" name="s" type="text"
+                   value="<?php echo get_search_query() ?>" placeholder="<?php _e('Search', 'elgrecowoo') ?>"/>
             <div class="scopes">
                 <span class="scope2 blog-search__btn"><i class="icon-blog-search"></i></span>
                 <span class="clearsearch"><i class="icon-cancel"></i></span>

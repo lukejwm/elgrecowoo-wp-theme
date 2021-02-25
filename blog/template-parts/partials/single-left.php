@@ -4,18 +4,20 @@
         <div class="article_info">
             <div class="article_stats">
                 <div class="article_by">
-                    <?php _e( 'by', 'elgrecowoo' ) ?>
+                    <?php _e('by', 'elgrecowoo') ?>
                     <?php echo get_the_author() ?>
                 </div>
                 <div class="article_date_tags">
-                    <span class="blog_date"><?php echo date_i18n( 'M j, Y', strtotime( get_the_date() ) ); ?></span>
+                    <span class="blog_date"><?php echo date_i18n('M j, Y', strtotime(get_the_date())); ?></span>
                     <div class="blog_tags">
-                        <?php echo get_the_category_list( ', ', 1 ); ?>
+                        <?php echo get_the_category_list(', ', 1); ?>
                     </div>
                 </div>
             </div>
             <div class="article_socs">
-                <div class="sharePopup"><div class="share-btn"></div></div>
+                <div class="sharePopup">
+                    <div class="share-btn"></div>
+                </div>
             </div>
         </div>
 
@@ -29,6 +31,8 @@
         <?php adswth_get_prev_next(); ?>
     </div>
 
-    <?php if( ( comments_open() || get_comments_number() ) ) { comments_template(); } ?>
+    <?php if ((comments_open() || get_comments_number())) {
+        comments_template();
+    } ?>
 
 </div>

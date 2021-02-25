@@ -1,4 +1,4 @@
-( function( $ ) {
+(function ($) {
     'use strict';
 
     $(document).on('wc-password-strength-added', function (e) {
@@ -9,4 +9,4 @@
         field.after(label);
 
     })
-})( jQuery );
+})(jQuery);

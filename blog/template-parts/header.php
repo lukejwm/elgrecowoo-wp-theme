@@ -6,10 +6,10 @@
                 <span></span>
                 <span></span>
             </div>
-            <?php get_template_part( 'blog/template-parts/partials/header', 'logo' ); ?>
+            <?php get_template_part('blog/template-parts/partials/header', 'logo'); ?>
         </div>
         <div class="col-xl-2 col-md-3 align-self-center text-md-right blog-back-area">
-            <?php get_template_part( 'blog/template-parts/partials/header', 'block-back' ); ?>
+            <?php get_template_part('blog/template-parts/partials/header', 'block-back'); ?>
         </div>
     </div>
 </div>

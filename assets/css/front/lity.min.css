@@ -1,6 +1,6 @@
-/*! Lity - v2.3.1 - 2018-04-20
-* http://sorgalla.com/lity/
-* Copyright (c) 2015-2018 Jan Sorgalla; Licensed MIT */
+/*! Lity - v2.3.1 - 2018-04-20;
+* http://sorgalla.com/lity/;
+* Copyright (c) 2015-2018 Jan Sorgalla; Licensed MIT */;
 .lity {
     z-index: 9990;
     position: fixed;
@@ -15,21 +15,21 @@
     opacity: 0;
     -webkit-transition: opacity .3s ease;
     -o-transition: opacity .3s ease;
-    transition: opacity .3s ease
+    transition: opacity .3s ease;
 }
 
 .lity.lity-opened {
-    opacity: 1
+    opacity: 1;
 }
 
 .lity.lity-closed {
-    opacity: 0
+    opacity: 0;
 }
 
 .lity * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
-    box-sizing: border-box
+    box-sizing: border-box;
 }
 
 .lity-wrap {
@@ -40,7 +40,7 @@
     bottom: 0;
     left: 0;
     text-align: center;
-    outline: none !important
+    outline: none !important;
 }
 
 .lity-wrap:before {
@@ -48,7 +48,7 @@
     display: inline-block;
     height: 100%;
     vertical-align: middle;
-    margin-right: -0.25em
+    margin-right: -0.25em;
 }
 
 .lity-loader {
@@ -64,11 +64,11 @@
     opacity: 0;
     -webkit-transition: opacity .3s ease;
     -o-transition: opacity .3s ease;
-    transition: opacity .3s ease
+    transition: opacity .3s ease;
 }
 
 .lity-loading .lity-loader {
-    opacity: 1
+    opacity: 1;
 }
 
 .lity-container {
@@ -80,7 +80,7 @@
     white-space: normal;
     max-width: 100%;
     max-height: 100%;
-    outline: none !important
+    outline: none !important;
 }
 
 .lity-content {
@@ -94,14 +94,14 @@
     transition: -webkit-transform .3s ease;
     -o-transition: -o-transform .3s ease;
     transition: transform .3s ease;
-    transition: transform .3s ease, -webkit-transform .3s ease, -o-transform .3s ease
+    transition: transform .3s ease, -webkit-transform .3s ease, -o-transform .3s ease;
 }
 
 .lity-loading .lity-content, .lity-closed .lity-content {
     -webkit-transform: scale(.8);
     -ms-transform: scale(.8);
     -o-transform: scale(.8);
-    transform: scale(.8)
+    transform: scale(.8);
 }
 
 .lity-content:after {
@@ -116,7 +116,7 @@
     height: auto;
     z-index: -1;
     -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
-    box-shadow: 0 0 8px rgba(0, 0, 0, 0.6)
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
 }
 
 .lity-close {
@@ -141,12 +141,12 @@
     background: none;
     outline: none;
     -webkit-box-shadow: none;
-    box-shadow: none
+    box-shadow: none;
 }
 
 .lity-close::-moz-focus-inner {
     border: 0;
-    padding: 0
+    padding: 0;
 }
 
 .lity-close:hover, .lity-close:focus, .lity-close:active, .lity-close:visited {
@@ -163,23 +163,23 @@
     background: none;
     outline: none;
     -webkit-box-shadow: none;
-    box-shadow: none
+    box-shadow: none;
 }
 
 .lity-close:active {
-    top: 1px
+    top: 1px;
 }
 
 .lity-image img {
     max-width: 100%;
     display: block;
     line-height: 0;
-    border: 0
+    border: 0;
 }
 
 .lity-iframe .lity-container, .lity-youtube .lity-container, .lity-vimeo .lity-container, .lity-facebookvideo .lity-container, .lity-googlemaps .lity-container {
     width: 100%;
-    max-width: 964px
+    max-width: 964px;
 }
 
 .lity-iframe-container {
@@ -190,7 +190,7 @@
     pointer-events: auto;
     -webkit-transform: translateZ(0);
     transform: translateZ(0);
-    -webkit-overflow-scrolling: touch
+    -webkit-overflow-scrolling: touch;
 }
 
 .lity-iframe-container iframe {
@@ -202,9 +202,9 @@
     height: 100%;
     -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
-    background: #000
+    background: #000;
 }
 
 .lity-hide {
-    display: none
+    display: none;
 }

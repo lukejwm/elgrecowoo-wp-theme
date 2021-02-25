@@ -10,26 +10,26 @@
     -ms-transition: all .2s ease-in;
     -moz-transition: all .2s ease-in;
     transition: all .2s ease-in;
-    cursor: pointer
+    cursor: pointer;
 }
 
 .product-box .yith-wcwl-add-button > button, .product-box .yith-wcwl-wishlistaddedbrowse > span, .product-box .yith-wcwl-wishlistexistsbrowse > span {
     font-size: 16px;
-    padding: 5px
+    padding: 5px;
 }
 
 .three-item .product-box .yith-wcwl-add-button > button, .three-item .product-box .yith-wcwl-wishlistaddedbrowse > span, .three-item .product-box .yith-wcwl-wishlistexistsbrowse > span {
     font-size: 14px;
-    padding: 3px
+    padding: 3px;
 }
 
 .yith-wcwl-add-button > button:hover, .yith-wcwl-wishlistaddedbrowse > span:hover, .yith-wcwl-wishlistexistsbrowse > span:hover {
     background-color: rgba(0, 0, 0, .5);
-    outline: 0
+    outline: 0;
 }
 
 .yith-wcwl-add-button > button:active, .yith-wcwl-add-button > button:focus, .yith-wcwl-wishlistaddedbrowse > span:active, .yith-wcwl-wishlistaddedbrowse > span:focus, .yith-wcwl-wishlistexistsbrowse > span:active, .yith-wcwl-wishlistexistsbrowse > span:focus {
-    outline: 0
+    outline: 0;
 }
 
 #yith-wcwl-popup-message {
@@ -46,7 +46,7 @@
     z-index: 10000;
     width: 100%;
     margin-left: 0 !important;
-    transform: translate(-50%, 0)
+    transform: translate(-50%, 0);
 }
 
 #yith-wcwl-popup-message:before {
@@ -72,7 +72,7 @@
     top: 12px;
     left: 15px;
     padding: 4px;
-    border-radius: 50%
+    border-radius: 50%;
 }
 
 a.wishlist-link {
@@ -82,9 +82,9 @@ a.wishlist-link {
     -webkit-transition: all .2s ease-in;
     -ms-transition: all .2s ease-in;
     -moz-transition: all .2s ease-in;
-    transition: all .2s ease-in
+    transition: all .2s ease-in;
 }
 
 a.wishlist-link:hover {
-    opacity: .8
+    opacity: .8;
 }

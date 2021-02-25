@@ -1,478 +1,478 @@
 body {
     color: #444;
-    background-color: #fff
+    background-color: #fff;
 }
 
 a, a:visited {
-    color: #22516c
+    color: #22516c;
 }
 
 a:hover {
-    color: #213957
+    color: #213957;
 }
 
 .header-bottom {
     background: #f5f5f5;
-    box-shadow: 0 0 10px #ccc
+    box-shadow: 0 0 10px #ccc;
 }
 
 input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], textarea {
-    border-color: #dfdfdf
+    border-color: #dfdfdf;
 }
 
 input[type=email]:focus, input[type=number]:focus, input[type=password]:focus, input[type=search]:focus, input[type=tel]:focus, input[type=text]:focus, textarea:focus {
-    border-color: #377598
+    border-color: #377598;
 }
 
 hr {
     margin-top: 1rem;
     margin-bottom: 1rem;
     border: 0;
-    border-top: 1px solid #dfdfdf
+    border-top: 1px solid #dfdfdf;
 }
 
 .text-muted {
-    color: #999 !important
+    color: #999 !important;
 }
 
 .btn-primary, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
     color: #fff !important;
     background-color: #f53b3b;
-    border-color: #f53b3b
+    border-color: #f53b3b;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .woocommerce #respond input#submit.alt, .woocommerce #respond input#submit.alt:focus, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:active, .woocommerce a.button.alt:focus, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:active, .woocommerce button.button.alt:focus, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:active, .woocommerce input.button.alt:focus, .woocommerce input.button.alt:hover {
     color: #fff !important;
     background-color: #d0112b;
-    border-color: #d0112b
+    border-color: #d0112b;
 }
 
 .btn-primary.disabled, .btn-primary:disabled {
     color: #fff !important;
     background-color: #d0112b;
-    border-color: #d0112b
+    border-color: #d0112b;
 }
 
 .btn-transparent {
     color: #444 !important;
     background-color: transparent;
-    border-color: #444
+    border-color: #444;
 }
 
 .btn-transparent:active, .btn-transparent:focus, .btn-transparent:hover {
     color: #fff !important;
     background-color: #444;
-    border-color: #444
+    border-color: #444;
 }
 
 .btn-white {
     color: #444 !important;
     background-color: #fff;
-    border-color: #fff
+    border-color: #fff;
 }
 
 .btn-white:active, .btn-white:focus, .btn-white:hover {
     color: #fff !important;
     background-color: #222;
-    border-color: #222
+    border-color: #222;
 }
 
 .btn-white-bordered {
     color: #444 !important;
     background-color: #fff;
-    border-color: #444
+    border-color: #444;
 }
 
 .btn-white-bordered:active, .btn-white-bordered:focus, .btn-white-bordered:hover {
     color: #fff !important;
     background-color: #222;
-    border-color: #222
+    border-color: #222;
 }
 
 .btn-secondary, .button.wc-forward {
     color: #fff;
     background-color: #444 !important;
-    border-color: #444 !important
+    border-color: #444 !important;
 }
 
 .btn-secondary.disabled, .btn-secondary.disabled:hover, .btn-secondary:active, .btn-secondary:disabled, .btn-secondary:disabled:hover, .btn-secondary:focus, .btn-secondary:hover, .btn-secondary:not(:disabled):not(.disabled).active:focus, .btn-secondary:not(:disabled):not(.disabled):active:focus, .button.wc-forward.disabled, .button.wc-forward.disabled:hover, .button.wc-forward:active, .button.wc-forward:disabled, .button.wc-forward:disabled:hover, .button.wc-forward:focus, .button.wc-forward:hover, .button.wc-forward:not(:disabled):not(.disabled).active:focus, .button.wc-forward:not(:disabled):not(.disabled):active:focus {
     color: #fff !important;
     background-color: #222 !important;
-    border-color: #222 !important
+    border-color: #222 !important;
 }
 
 .reliable {
     background-color: #fff;
-    color: #3c5460
+    color: #3c5460;
 }
 
 .reliable .icon {
-    fill: #3c5460
+    fill: #3c5460;
 }
 
 .reliable .smalltext {
-    color: inherit
+    color: inherit;
 }
 
 .bootstrap-select select + .btn {
     background: #fff !important;
     border-color: #dfdfdf !important;
-    color: #444 !important
+    color: #444 !important;
 }
 
 .dropdown-item {
-    color: #444
+    color: #444;
 }
 
 .dropdown-item.active, .dropdown-item:active {
     background-color: #f8f8f8;
-    color: #444
+    color: #444;
 }
 
 .dropdown-item.active {
-    color: #999
+    color: #999;
 }
 
 .divider {
-    background-color: #999
+    background-color: #999;
 }
 
 .header-currency-switcher .current-currency:hover {
-    opacity: .8
+    opacity: .8;
 }
 
 .header-currency-switcher .dropdown-menu:hover::-webkit-scrollbar-thumb {
-    background: #3c5460
+    background: #3c5460;
 }
 
 .header-currency-switcher .dropdown-menu li a {
-    color: #000
+    color: #000;
 }
 
 .header-currency-switcher .dropdown-menu li a:hover {
     background-color: #f8f8f8;
-    color: #399fd2
+    color: #399fd2;
 }
 
 .header-main {
-    background-color: #fff
+    background-color: #fff;
 }
 
 .header .wishlist-link, .header-account a, .header-cart, .header-currency-switcher .current-currency {
-    color: #444
+    color: #444;
 }
 
 .search-input-container .scopes .clear-search, .search-input-container .scopes .scope, .search-input-container .scopes .scope2 {
-    color: #444
+    color: #444;
 }
 
 .mobile-search .search-input-container .scopes .clear-search, .mobile-search .search-input-container .scopes .scope, .mobile-search .search-input-container .scopes .scope2 {
-    color: #b6d4e8
+    color: #b6d4e8;
 }
 
 ul.nav-dropdown-default {
     background-color: #fff;
-    box-shadow: 0 0 4px rgba(0, 0, 0, .25)
+    box-shadow: 0 0 4px rgba(0, 0, 0, .25);
 }
 
 ul.nav-dropdown-default > li.menu-item > a, ul.product-categories a, ul.slider-menu > li.menu-item > a {
-    color: #444
+    color: #444;
 }
 
 ul.nav-dropdown-default > li.menu-item > a:hover {
     background-color: #f8f8f8;
-    color: #399fd2
+    color: #399fd2;
 }
 
 ul.nav-dropdown-default > li.menu-item.current-menu-item > a ul.slider-menu > li.menu-item.current-menu-item > a {
-    color: #399fd2
+    color: #399fd2;
 }
 
 ul.topmenu > li.current-menu-item > a, ul.topmenu > li.menu-item > a:hover {
     color: #fff;
-    border-bottom-color: #fff
+    border-bottom-color: #fff;
 }
 
 .mobile-menu-switch span {
-    background-color: #444
+    background-color: #444;
 }
 
 .slider-menu-wrap {
-    background-color: #fff
+    background-color: #fff;
 }
 
 ul.slider-menu > li.menu-item:hover > a {
     background-color: #3c5460;
-    color: #fff
+    color: #fff;
 }
 
 ul.slider-menu li.menu-item > a > .count {
-    color: #999
+    color: #999;
 }
 
 ul.slider-menu > li.menu-item:hover > a > .count {
-    color: #fff
+    color: #fff;
 }
 
 ul.slider-menu > li.menu-item:before {
-    background-color: #999
+    background-color: #999;
 }
 
 ul.slider-menu > li.menu-item:hover:before {
-    background-color: #fff
+    background-color: #fff;
 }
 
 ul.slider-menu > li.menu-item:after {
-    background-color: #f8f8f8
+    background-color: #f8f8f8;
 }
 
 ul.slider-menu > li.menu-item:hover:after {
-    background-color: transparent
+    background-color: transparent;
 }
 
 ul.slider-menu > li.menu-item.menu-item-has-children > a:after {
-    color: #999
+    color: #999;
 }
 
 ul.slider-menu > li.menu-item.menu-item-has-children:hover > a:after {
-    color: #fff
+    color: #fff;
 }
 
 .main-slider .flickity-page-dots .dot {
     border: 1px solid rgba(153, 153, 153, .8);
-    background: rgba(255, 255, 255, .8)
+    background: rgba(255, 255, 255, .8);
 }
 
 .main-slider .flickity-page-dots .dot.is-selected {
     background: rgba(56, 56, 56, .8);
-    border-color: rgba(255, 255, 255, .8)
+    border-color: rgba(255, 255, 255, .8);
 }
 
 .main-slider .slide .caption {
-    color: #444
+    color: #444;
 }
 
 .additional-banner-img:before {
-    background: rgba(255, 255, 255, .2)
+    background: rgba(255, 255, 255, .2);
 }
 
 .main-banner-text {
-    color: #444
+    color: #444;
 }
 
 .most-popular-categories .caption-wrap {
     color: #fff;
-    background: rgba(0, 0, 0, .3)
+    background: rgba(0, 0, 0, .3);
 }
 
 .onsale {
-    color: #fff
+    color: #fff;
 }
 
 .onsale:before {
-    background: #3c5460
+    background: #3c5460;
 }
 
 .woocommerce-product-rating .call-item {
-    color: #22516c
+    color: #22516c;
 }
 
 .woocommerce div.product p.price, .woocommerce div.product span.price {
-    color: #ff9841
+    color: #ff9841;
 }
 
 .footer-wrapper {
-    background-color: #fff
+    background-color: #fff;
 }
 
 .footer-widgets {
-    color: #eee
+    color: #eee;
 }
 
 .footer-widgets .widget-title {
-    color: #b7b7b7
+    color: #b7b7b7;
 }
 
 .footer-widgets .widget a:active, .footer-widgets .widget a:focus, .footer-widgets .widget a:hover {
-    color: #fff
+    color: #fff;
 }
 
 .footer-wrapper .divider {
-    background-color: #f8f8f8
+    background-color: #f8f8f8;
 }
 
 .footer-absolute {
-    background-color: #222
+    background-color: #222;
 }
 
 .footer-absolute-primary {
-    color: #b7b7b7
+    color: #b7b7b7;
 }
 
 .footer-absolute-secondary {
-    color: #b7b7b7
+    color: #b7b7b7;
 }
 
 .back-to-top {
     border-color: #3c5460;
     color: #3c5460;
-    background-color: #fff
+    background-color: #fff;
 }
 
 .back-to-top:hover {
     border-color: #fff;
     color: #fff;
-    background-color: #3c5460
+    background-color: #3c5460;
 }
 
 .adswth-breadcrumb a {
-    color: #999 !important
+    color: #999 !important;
 }
 
 .adswth-breadcrumb .current {
-    color: #999
+    color: #999;
 }
 
 .page-head-image {
-    color: #fff
+    color: #fff;
 }
 
 .jssocials-share a {
     color: #999;
-    background-color: transparent
+    background-color: transparent;
 }
 
 .jssocials-share a:active, .jssocials-share a:hover {
     color: #fff;
-    background-color: #626262
+    background-color: #626262;
 }
 
 .woocommerce.single-product div.product p.price, .woocommerce.single-product div.product span.price {
-    color: #ff9841
+    color: #ff9841;
 }
 
 .woocommerce div.product p.price del, .woocommerce div.product span.price del {
-    color: #999
+    color: #999;
 }
 
 .woocommece-shop-sidebar .widget {
-    background-color: #fff
+    background-color: #fff;
 }
 
 .flickity-enabled.is-fullscreen .flickity-page-dots .dot, .woocommerce .product-gallery-slider .dot {
     border: 1px solid rgba(153, 153, 153, .8);
-    background: rgba(255, 255, 255, .8)
+    background: rgba(255, 255, 255, .8);
 }
 
 .flickity-enabled.is-fullscreen .flickity-page-dots .dot.is-selected, .woocommerce .product-gallery-slider .dot.is-selected {
     background: rgba(56, 56, 56, .8);
-    border-color: rgba(255, 255, 255, .8)
+    border-color: rgba(255, 255, 255, .8);
 }
 
 .woocommerce div.product .stock {
-    color: #50c450
+    color: #50c450;
 }
 
 .tabs li .active {
-    color: #3c5460
+    color: #3c5460;
 }
 
 .tabs .nav-tabs li .active:after {
-    background: #3c5460
+    background: #3c5460;
 }
 
 .tabs .tab-content {
-    background: #fff
+    background: #fff;
 }
 
 .woocommerce div.product .product-raiting-count {
-    background-color: #fff
+    background-color: #fff;
 }
 
 .woocommerce div.product .product-raiting-count .woocommerce-product-rating .review-count {
-    color: #999
+    color: #999;
 }
 
 .woocommerce div.product .product-raiting-count .woocommerce-product-rating .review-enjoyed span {
-    color: #ff9841
+    color: #ff9841;
 }
 
 .woocommerce div.product .product-raiting-count .rating-status-row .review-status-percent {
-    background-color: #f2f2f4
+    background-color: #f2f2f4;
 }
 
 .woocommerce div.product .product-raiting-count .rating-status-row .review-status-percent span {
-    background: #ffbe72
+    background: #ffbe72;
 }
 
 .woocommerce #reviews #comments ol.commentlist li {
-    border-color: #dfdfdf
+    border-color: #dfdfdf;
 }
 
 .woocommerce #reviews #comments ol.commentlist li .comment-text p.meta .woocommerce-review__published-date {
-    color: #797979
+    color: #797979;
 }
 
 .woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content {
-    background-color: #dfdfdf
+    background-color: #dfdfdf;
 }
 
 .woocommerce .widget_price_filter .ui-slider .ui-slider-range {
-    background-color: #c4c4c4
+    background-color: #c4c4c4;
 }
 
 .woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
-    background-color: #444
+    background-color: #444;
 }
 
 .woocommerce .widget_price_filter .price_slider_amount .price_label {
-    color: #999
+    color: #999;
 }
 
 .woocommerce .widget_price_filter .price_slider_amount .price_label span {
-    color: #444
+    color: #444;
 }
 
 .woocommerce .widget_rating_filter ul li a {
-    color: #999
+    color: #999;
 }
 
 .woocommerce .widget_rating_filter ul li a:hover {
-    color: #399fd2
+    color: #399fd2;
 }
 
 .checkout-breadcrumbs, .checkout-breadcrumbs a {
-    color: #999 !important
+    color: #999 !important;
 }
 
 .checkout-breadcrumbs a.current, .checkout-breadcrumbs a:hover {
-    color: #444 !important
+    color: #444 !important;
 }
 
 .pagination ul.page-numbers li > span.current {
     color: #3c5460;
-    border-bottom-color: #3c5460
+    border-bottom-color: #3c5460;
 }
 
 .yousave_block {
     background-color: #008fd3;
-    color: #fff
+    color: #fff;
 }
 
 .shop-mobile-menu-wrap ul li.title2 a {
-    color: #22516c
+    color: #22516c;
 }
 
 .pagination.categories-pagination .page-numbers li .page-numbers, .pagination.load-more .page-numbers li.go-next a {
     border-color: #444;
-    color: #444
+    color: #444;
 }
 
 .pagination.categories-pagination .page-numbers li .page-numbers.current, .pagination.categories-pagination .page-numbers li .page-numbers:hover, .pagination.load-more .page-numbers li.go-next a:hover {
     background-color: #444;
-    color: #fff
+    color: #fff;
 }
 
 .features-wrap {
-    background: #f7f7f8
+    background: #f7f7f8;
 }

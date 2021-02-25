@@ -1,19 +1,22 @@
-<svg version="1.1" xmlns:x="&amp;ns_extend;" xmlns:i="&amp;ns_ai;" xmlns:graph="&amp;ns_graphs;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="70px" height="54px" viewBox="0 0 84.083 82.125" enable-background="new 0 0 84.083 82.125" xml:space="preserve">
+<svg version="1.1" xmlns:i="&amp;ns_ai;"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="70px"
+     height="54px" viewBox="0 0 84.083 82.125" enable-background="new 0 0 84.083 82.125" xml:space="preserve">
 <metadata>
 	<sfw xmlns="&amp;ns_sfw;">
 		<slices></slices>
-		<slicesourcebounds width="70px" height="54px" y="63.029" x="0.037" bottomleftorigin="true"></slicesourcebounds>
+        <slicesourcebounds width="70px" height="54px" y="63.029" x="0.037" bottomleftorigin="true"></slicesourcebounds>
 	</sfw>
 </metadata>
-<switch>
+    <switch>
 	<foreignObject requiredExtensions="&amp;ns_ai;" x="0" y="0" width="1" height="1">
 		<i:pgfref xlink:href="#adobe_illustrator_pgf">
 		</i:pgfref>
 	</foreignObject>
-	<g i:extraneous="self">
+        <g i:extraneous="self">
 		<g>
 
-				<path fill="#8C9092" stroke="#8C9092" stroke-width="0.3013" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="22.9256" d="
+				<path fill="#8C9092" stroke="#8C9092" stroke-width="0.3013" stroke-linecap="round"
+                      stroke-linejoin="round" stroke-miterlimit="22.9256" d="
 				M37.989,25.218V14.98l10.079,10.238H37.989L37.989,25.218z M46.32,72.229H2.548V13.281h2.467V25.07
 				c0,4.551,3.701,8.253,8.253,8.253c4.55,0,8.253-3.702,8.253-8.253V13.281h14.111v14.295h14.073v13.152l2.358-1.195V25.914
 				L37.305,10.923H21.521V6.208h-2.358v4.716h-2.358V6.208c0-3.25-2.646-5.895-5.895-5.895c-3.25,0-5.895,2.644-5.895,5.895v4.716
@@ -23,14 +26,15 @@
 				c-3.25,0-5.895-2.644-5.895-5.895V13.281h2.358V25.07c0,1.95,1.586,3.537,3.537,3.537c1.949,0,3.537-1.587,3.537-3.537V13.281
 				H19.163L19.163,13.281z"></path>
 
-				<path fill="none" stroke="<?php echo $color;?>" stroke-width="2.7138" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+            <path fill="none" stroke="<?php echo $color;?>" stroke-width="2.7138" stroke-linecap="round"
+                  stroke-linejoin="round" stroke-miterlimit="10" d="
 				M61.043,80.614l21.524-11.217V45.838L61.043,34.982L39.619,45.838v23.559L61.043,80.614L61.043,80.614z M39.619,45.838
 				l21.474,11.217l21.574-11.217 M61.093,57.351v23.263 M68.554,38.736L47.672,50.193v4.474l0.911,0.107l1.543,1.688l1.627,0.329
 				l1.287,1.212v-5.126L74.246,41.6L68.554,38.736L68.554,38.736z"></path>
 		</g>
 	</g>
 </switch>
-<i:pgf id="adobe_illustrator_pgf">
+    <i:pgf id="adobe_illustrator_pgf">
 
 	eJztvelycsm2IObfFcE7ABoAMe2RDUhCYtSEJCQ0TwiJLYlPCNAGqk7dHx12+4ftsMN+AYcd/QbX
 HX1s37h9r1/hO2/klbnnOTfw3b5td1WUCti518pcuXJNuVbmWqTVTpd7oxcxzWaocOi3tbWqJHan

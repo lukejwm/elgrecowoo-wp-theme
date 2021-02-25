@@ -8,7 +8,7 @@
     width: 100% !important;
 }
 
-.select2-container--open .select2-dropdown--above,
+.select2-container--open .select2-dropdown--above
 .select2-container--open .select2-dropdown--below {
     z-index: 9999999;
     min-width: 100px;
@@ -38,4 +38,4 @@
     z-index: 999999 !important;
 }
 
-/*# sourceMappingURL=kirki.css.map */
+/*# sourceMappingURL=kirki.css.map */;

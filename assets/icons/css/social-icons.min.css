@@ -3,7 +3,7 @@
     src: url(../font/social-icons.eot?45288975);
     src: url(../font/social-icons.eot?45288975#iefix) format('embedded-opentype'), url(../font/social-icons.woff2?45288975) format('woff2'), url(../font/social-icons.woff?45288975) format('woff'), url(../font/social-icons.ttf?45288975) format('truetype'), url(../font/social-icons.svg?45288975#social-icons) format('svg');
     font-weight: 400;
-    font-style: normal
+    font-style: normal;
 }
 
 [class^=social-icon-]:before {
@@ -20,29 +20,29 @@
     text-transform: none;
     line-height: 1em;
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale
+    -moz-osx-font-smoothing: grayscale;
 }
 
 .social-icon-twitter:before {
-    content: '\f099'
+    content: '\f099';
 }
 
 .social-icon-facebook:before {
-    content: '\f09a'
+    content: '\f09a';
 }
 
 .social-icon-gplus:before {
-    content: '\f0d5'
+    content: '\f0d5';
 }
 
 .social-icon-youtube:before {
-    content: '\f167'
+    content: '\f167';
 }
 
 .social-icon-instagram:before {
-    content: '\f16d'
+    content: '\f16d';
 }
 
 .social-icon-pinterest:before {
-    content: '\f231'
+    content: '\f231';
 }
