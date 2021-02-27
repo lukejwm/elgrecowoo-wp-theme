@@ -23,7 +23,7 @@
                                 ?>
                                 <div class="swiper-slide">
                                     <div class="most-popular-image">
-                                        <img class="swiper-lazy" data-src="<?php echo $slide_image ?>" alt="<?php echo $item['category_name'] ?>"/>
+                                        <img class="swiper-lazy" width="380px" height="203px" data-src="<?php echo $slide_image ?>" alt="<?php echo $item['category_name'] ?>"/>
                                     </div>
                                     <?php if(isset( $item['category_link'] ) && !empty( $item['category_link'] )){ ?>
                                         <a href="<?php echo $item['category_link'] ?>">
